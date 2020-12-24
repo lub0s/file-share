@@ -1,0 +1,19 @@
+{
+    "name": "file-share",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "devDependencies": {
+        "pino-pretty": "4.2.1"
+    },
+    "dependencies": {
+        "ua-parser-js": "^0.7.21",
+        "unique-names-generator": "^4.3.0",
+        "ws": "^7.3.1",
+        "pino": "^6.8.0"
+    }
+}
